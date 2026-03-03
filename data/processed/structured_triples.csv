@@ -1,0 +1,181 @@
+Subject,Predicate,Object
+Marisa Obrien,PURCHASED,GoPro Hero
+Marisa Obrien,RAISED,Ticket_1
+Ticket_1,REPORTS_ISSUE,Product setup
+Ticket_1,HAS_SEVERITY,Critical
+Ticket_1,SUBMITTED_VIA,Social Media
+Ticket_1,PRODUCED,not resolved yet
+GoPro Hero,Product EXPERIENCING Specific_Error,not resolved yet
+GoPro Hero,Product COMPONENT_INVOLVED Component,not specified
+not specified,Component INVOLVED IN Product,GoPro Hero
+not specified,Troubleshooting_Step REQUIRED_ACTION Resolution,double check your email address and the user manual steps
+Jessica Rios,PURCHASED,LG Smart TV
+Jessica Rios,RAISED,Ticket_2
+Ticket_2,REPORTS_ISSUE,Peripheral compatibility
+Ticket_2,HAS_SEVERITY,Critical
+Ticket_2,SUBMITTED_VIA,Chat
+Ticket_2,PRODUCED,not resolved yet
+LG Smart TV,Product EXPERIENCING Specific_Error,not resolved yet
+LG Smart TV,Product COMPONENT_INVOLVED Component,not specified
+not specified,Resolution REQUIRED_ACTION,not specified
+Christopher Robbins,PURCHASED,Dell XPS
+Christopher Robbins,RAISED,Ticket_3
+Ticket_3,REPORTS_ISSUE,Network problem
+Ticket_3,HAS_SEVERITY,Minor
+Ticket_3,SUBMITTED_VIA,Social Media
+Ticket_3,PRODUCED,Case maybe show recently my computer follow.
+Dell XPS,EXPERIENCING,Specific_Error
+Dell XPS,COMPONENT_INVOLVED,Power_Supply
+Case,REQUIRED_ACTION,Follow
+Christina Dillon,PURCHASED,Microsoft Office
+Christina Dillon,RAISED,Ticket_4
+Ticket_4,REPORTS_ISSUE,Account access
+Ticket_4,HAS_SEVERITY,Minor
+Ticket_4,SUBMITTED_VIA,Social Media
+Ticket_4,PRODUCED,Try capital clearly never color toward story.
+Microsoft Office,Product EXPERIENCING Specific_Error,Issue
+Try capital clearly never color toward story,Resolution REQUIRED_ACTION,Troubleshooting_Step
+Alexander Carroll,PURCHASED,Autodesk AutoCAD
+Alexander Carroll,RAISED,Ticket_5
+Ticket_5,REPORTS_ISSUE,Data loss
+Ticket_5,HAS_SEVERITY,Minor
+Ticket_5,SUBMITTED_VIA,Email
+Ticket_5,PRODUCED,West decision evidence bit.
+Autodesk AutoCAD,Product EXPERIENCING Specific_Error,sudden decrease in battery life
+Autodesk AutoCAD,Product COMPONENT_INVOLVED Component,battery
+West decision evidence bit.,Resolution REQUIRED_ACTION Troubleshooting_Step,unknown
+Rebecca Fleming,PURCHASED,Microsoft Office
+Rebecca Fleming,RAISED,Ticket_6
+Ticket_6,REPORTS_ISSUE,Payment issue
+Ticket_6,HAS_SEVERITY,Minor
+Ticket_6,SUBMITTED_VIA,Social Media
+Ticket_6,PRODUCED,not resolved yet
+Microsoft Office,EXPERIENCING,Specific_Error
+Microsoft Office,COMPONENT_INVOLVED,Turning_On
+not resolved yet,REQUIRED_ACTION,Checking_for_software_updates
+Jacqueline Wright,PURCHASED,Microsoft Surface
+Jacqueline Wright,RAISED,Ticket_7
+Ticket_7,REPORTS_ISSUE,Refund request
+Ticket_7,HAS_SEVERITY,Critical
+Ticket_7,SUBMITTED_VIA,Social Media
+Ticket_7,PRODUCED,not resolved yet
+Microsoft Surface,Product EXPERIENCING Specific_Error,Invalid Credentials
+Microsoft Surface,Product COMPONENT_INVOLVED Component,Account Access
+Regain access to my account,Resolution REQUIRED_ACTION,Not Resolved Yet
+Denise Lee,PURCHASED,Philips Hue Lights
+Denise Lee,RAISED,Ticket_8
+Ticket_8,REPORTS_ISSUE,Battery life
+Ticket_8,HAS_SEVERITY,Critical
+Ticket_8,SUBMITTED_VIA,Social Media
+Ticket_8,PRODUCED,not resolved yet
+Philips Hue Lights,Product EXPERIENCING Specific_Error,not resolved yet
+Philips Hue Lights,Product COMPONENT_INVOLVED Component,N/A
+Factory reset,Resolution REQUIRED_ACTION,N/A
+Nicolas Wilson,PURCHASED,Fitbit Versa Smartwatch
+Nicolas Wilson,RAISED,Ticket_9
+Ticket_9,REPORTS_ISSUE,Installation support
+Ticket_9,HAS_SEVERITY,Minor
+Ticket_9,SUBMITTED_VIA,Social Media
+Ticket_9,PRODUCED,not resolved yet
+Fitbit Versa Smartwatch,Product EXPERIENCING Specific_Error,not resolved yet
+Fitbit Versa Smartwatch,Product COMPONENT_INVOLVED Component,firmware update
+,Resolution REQUIRED_ACTION Troubleshooting_Step,investigate if the issue is related to the firmware update
+William Dawson,PURCHASED,Dyson Vacuum Cleaner
+William Dawson,RAISED,Ticket_10
+Ticket_10,REPORTS_ISSUE,Payment issue
+Ticket_10,HAS_SEVERITY,Critical
+Ticket_10,SUBMITTED_VIA,Phone
+Ticket_10,PRODUCED,not resolved yet
+Dyson Vacuum Cleaner,EXPERIENCING,Specific_Error
+Dyson Vacuum Cleaner,COMPONENT_INVOLVED,hardware
+not resolved yet,REQUIRED_ACTION,Troubleshooting_Step
+Joseph Moreno,PURCHASED,Nintendo Switch
+Joseph Moreno,RAISED,Ticket_11
+Ticket_11,REPORTS_ISSUE,Data loss
+Ticket_11,HAS_SEVERITY,Major
+Ticket_11,SUBMITTED_VIA,Phone
+Ticket_11,PRODUCED,Measure tonight surface feel forward.
+Nintendo Switch,Product EXPERIENCING Specific_Error,Not charging properly
+Charger,Product COMPONENT_INVOLVED Component,Charger that came with Nintendo Switch
+Measure tonight surface feel forward,Resolution REQUIRED_ACTION Troubleshooting_Step,N/A
+Brandon Arnold,PURCHASED,Microsoft Xbox Controller
+Brandon Arnold,RAISED,Ticket_12
+Ticket_12,REPORTS_ISSUE,Software bug
+Ticket_12,HAS_SEVERITY,Major
+Ticket_12,SUBMITTED_VIA,Chat
+Ticket_12,PRODUCED,Measure there house management pick knowledge trade.
+Microsoft Xbox Controller,Product EXPERIENCING Specific_Error,Unspecified_Error
+Microsoft Xbox Controller,Product COMPONENT_INVOLVED Component,Unspecified_Component
+Unspecified Resolution,Resolution REQUIRED_ACTION Troubleshooting_Step,Measure there house management pick knowledge trade
+Tamara Hahn,PURCHASED,Nintendo Switch Pro Controller
+Tamara Hahn,RAISED,Ticket_13
+Ticket_13,REPORTS_ISSUE,Hardware issue
+Ticket_13,HAS_SEVERITY,Minor
+Ticket_13,SUBMITTED_VIA,Chat
+Ticket_13,PRODUCED,not resolved yet
+Nintendo Switch Pro Controller,Product EXPERIENCING Specific_Error,Specific feature or application
+Nintendo Switch Pro Controller,Product COMPONENT_INVOLVED Component,Specific feature or application
+Sandra Barnes,PURCHASED,Nest Thermostat
+Sandra Barnes,RAISED,Ticket_14
+Ticket_14,REPORTS_ISSUE,Product setup
+Ticket_14,HAS_SEVERITY,Minor
+Ticket_14,SUBMITTED_VIA,Chat
+Ticket_14,PRODUCED,not resolved yet
+Nest Thermostat,EXPERIENCING,Specific_Error
+Nest Thermostat,COMPONENT_INVOLVED,Network_Connection
+Nest Thermostat Network Connection Issue,REQURED_ACTION,Troubleshooting_Step
+Amy Hill,PURCHASED,Sony PlayStation
+Amy Hill,RAISED,Ticket_15
+Ticket_15,REPORTS_ISSUE,Product setup
+Ticket_15,HAS_SEVERITY,Major
+Ticket_15,SUBMITTED_VIA,Chat
+Ticket_15,PRODUCED,Officer moment world sing parent available.
+TPUBASK3E3KQ0,EXPERIENCING,Specific_Error
+Sony PlayStation,COMPONENT_INVOLVED,Firmware_Update
+Officer moment world sing parent available,REQUIRED_ACTION,Troubleshooting_Step
+Elizabeth Foley,PURCHASED,GoPro Action Camera
+Elizabeth Foley,RAISED,Ticket_16
+Ticket_16,REPORTS_ISSUE,Product recommendation
+Ticket_16,HAS_SEVERITY,Major
+Ticket_16,SUBMITTED_VIA,Social Media
+Ticket_16,PRODUCED,not resolved yet
+GoPro Action Camera,Product EXPERIENCING Specific_Error,Sudden decrease in battery life
+GoPro Action Camera,Product COMPONENT_INVOLVED Component,Battery
+Sudden decrease in battery life on GoPro Action Camera,Resolution REQUIRED_ACTION,not resolved yet
+Julia Salazar,PURCHASED,Xbox
+Julia Salazar,RAISED,Ticket_17
+Ticket_17,REPORTS_ISSUE,Account access
+Ticket_17,HAS_SEVERITY,Critical
+Ticket_17,SUBMITTED_VIA,Chat
+Ticket_17,PRODUCED,Seek evidence book collection catch.
+Xbox,EXPERIENCING,Specific_Error
+Xbox,COMPONENT_INVOLVED,Not_Specified
+Seek evidence book collection catch,REQUIRED_ACTION,Troubleshooting_Step
+Joshua Castillo,PURCHASED,Microsoft Xbox Controller
+Joshua Castillo,RAISED,Ticket_18
+Ticket_18,REPORTS_ISSUE,Payment issue
+Ticket_18,HAS_SEVERITY,Major
+Ticket_18,SUBMITTED_VIA,Chat
+Ticket_18,PRODUCED,not resolved yet
+Microsoft Xbox Controller,EXPERIENCING,Specific_Error
+Microsoft Xbox Controller,COMPONENT_INVOLVED,N/A
+N/A,REQUIRED_ACTION,Troubleshooting_Step
+N/A,Troubleshooting_Step,Check official support website
+Wendy Davis,PURCHASED,LG Washing Machine
+Wendy Davis,RAISED,Ticket_19
+Ticket_19,REPORTS_ISSUE,Peripheral compatibility
+Ticket_19,HAS_SEVERITY,Major
+Ticket_19,SUBMITTED_VIA,Social Media
+Ticket_19,PRODUCED,not resolved yet
+LG Washing Machine,Product EXPERIENCING Specific_Error,intermittent
+LG Washing Machine,Product COMPONENT_INVOLVED Component,not specified
+not resolved yet,Resolution REQUIRED_ACTION Troubleshooting_Step,not specified
+Jeffrey Robertson,PURCHASED,Canon EOS
+Jeffrey Robertson,RAISED,Ticket_20
+Ticket_20,REPORTS_ISSUE,Software bug
+Ticket_20,HAS_SEVERITY,Minor
+Ticket_20,SUBMITTED_VIA,Chat
+Ticket_20,PRODUCED,Wish mouth build resource though.
+Canon EOS,Product EXPERIENCING Specific_Error,Unknown error
+Canon EOS,Product COMPONENT_INVOLVED Component,Software
+Checking for available software updates,Resolution REQUIRED_ACTION,N/A

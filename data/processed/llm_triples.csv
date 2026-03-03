@@ -1,0 +1,40 @@
+Subject,Predicate,Object
+GoPro Hero,EXPERIENCING,Issue persists after troubleshooting steps mentioned in the user manual
+GoPro Hero,REQUIRED_ACTION,Contact support for further assistance
+LG Smart TV,EXPERIENCING,Intermittent issues
+LG Smart TV,REQUIRED_ACTION,Assistance required
+Dell XPS,EXPERIENCING,Not turning on
+Dell XPS,REQUIRED_ACTION,Troubleshoot power issues
+Microsoft Office,EXPERIENCING,Unresolved issue
+Microsoft Office,REQUIRED_ACTION,Check Feedback or contact customer support again
+Autodesk AutoCAD,EXPERIENCING,Sudden decrease in battery life
+Autodesk AutoCAD,REQUIRED_ACTION,Seek assistance to resolve the battery life issue
+Microsoft Office,EXPERIENCING,Not turning on
+Microsoft Office,REQUIRED_ACTION,Troubleshooting or contacting technical support
+Microsoft Surface,EXPERIENCING,Unable to access account
+Microsoft Surface,REQUIRED_ACTION,Regain access to account
+Philips Hue Lights,EXPERIENCING,Problem persists after factory reset
+Philips Hue Lights,REQUIRED_ACTION,Investigate supply inventory or other issues
+Fitbit Versa Smartwatch,EXPERIENCING,Firmware issue after update
+Dyson Vacuum Cleaner,EXPERIENCING,Strange noises and intermittent functionality
+Dyson Vacuum Cleaner,REQUIRED_ACTION,Hardware inspection or repair
+Nintendo Switch,EXPERIENCING,Not charging properly
+Nintendo Switch,REQUIRED_ACTION,Troubleshooting or contacting Customer Service
+Microsoft Xbox Controller,EXPERIENCING,Having an issue
+Microsoft Xbox Controller,REQUIRED_ACTION,Seek further assistance or advanced troubleshooting
+Nintendo Switch Pro Controller,EXPERIENCING,Consistently experiencing an issue when using a specific feature or application
+Nintendo Switch Pro Controller,REQUIRED_ACTION,Identify and troubleshoot the specific feature or application causing the issue
+Nest Thermostat,EXPERIENCING,Fails to connect to available networks
+Nest Thermostat,REQUIRED_ACTION,Troubleshoot connection issues
+Sony PlayStation,EXPERIENCING,Firmware update related issue
+Sony PlayStation,REQUIRED_ACTION,Investigate if the issue is related to the recent firmware update
+GoPro Action Camera,EXPERIENCING,Sudden decrease in battery life
+GoPro Action Camera,REQUIRED_ACTION,Investigate battery life issue
+Xbox,EXPERIENCING,Security concerns
+Xbox,REQUIRED_ACTION,Ensure data security
+Microsoft Xbox Controller,EXPERIENCING,Problem not resolved despite following troubleshooting steps
+Microsoft Xbox Controller,REQUIRED_ACTION,Seek further assistance or consider contacting the support for additional help
+LG Washing Machine,EXPERIENCING,Intermittent operation
+LG Washing Machine,REQUIRED_ACTION,Diagnose and repair as needed
+Canon EOS,EXPERIENCING,Unspecified issue
+Canon EOS,REQUIRED_ACTION,Seek professional assistance or troubleshooting
