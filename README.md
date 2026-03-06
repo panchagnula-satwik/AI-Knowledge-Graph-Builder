@@ -1,4 +1,6 @@
 # AI Knowledge Graph Builder for Enterprise Intelligence
+Developed as part of Infosys Springboard Internship
+Author: Satwik Panchagnula
 
 ## 📖 Project Overview
 This project builds an enterprise-level Knowledge Graph from structured and unstructured customer support data.
@@ -100,10 +102,15 @@ llm_triples.csv
 Graph Statistics:
 
 ```
-Nodes: 162
-Relationships: 244
-```
+Graph Statistics (Sample Run – First 20 Rows)
 
+Nodes: ~160+
+Relationships: ~240+
+
+Note: The above statistics correspond to a test run on the first 20 records. 
+Running the pipeline on the full dataset will generate a significantly larger knowledge graph.
+
+```
 ---
 
 ## Step 4: Graph Validation
@@ -139,7 +146,7 @@ LIMIT 25;
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/AI-Knowledge-Graph-Builder.git
+git clone https://github.com/panchagnula-satwik/AI-Knowledge-Graph-Builder.git
 cd AI-Knowledge-Graph-Builder
 ```
 
